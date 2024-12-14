@@ -1,6 +1,5 @@
 # [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
 
-![cert](https://github.com/larrymahumot/google-it-support/blob/main/Coursera%20C2HRL2Y6TFJY.jpg)
 > All copyrighted materials belong to Coursera, this repository created for reference purpose.
 
 <br>
@@ -50,6 +49,6 @@ Examples of virtual assessments include Assembling a Computer, Networking simula
 
 # Google IT Support
 
-[Google IT Automation with Python](https://coursera.org/share/bf761499aaa7d0e8f6fc4ffe9c93e8f0)
+[Google IT Support ](https://coursera.org/share/bf761499aaa7d0e8f6fc4ffe9c93e8f0)
 
-![Certificate](/Coursera C2HRL2Y6TFJY.jpg)
+![Certificate](https://github.com/ishall21/Google-IT-Support/blob/main/Coursera%20C2HRL2Y6TFJY.jpg)
