@@ -33,3 +33,23 @@ Examples of virtual assessments include Assembling a Computer, Networking simula
 * Command-Line Interface
 * Directory Service
 * Lightweight Directory Access Protocol (LDAP)
+
+
+# Certificates
+
+[ 1: IT Secu rity: Defense against the digital dark arts](https://coursera.org/share/98c7b17108de4aea23c21c5b08ce02e2)
+
+[ 2: Operating Systems and You : Becoming a Power User](https://coursera.org/share/4297cd925b2a51b34f50630fc0073013)
+
+[ 3: Technical Su pport Fu ndamentals](https://coursera.org/share/1788c0fcd52030eab8beba3bfbcbc475)
+
+[ 4: The Bits and Bytes of Compu ter Networking](https://coursera.org/share/16765a606030c1626ba3ea4541bead81)
+
+[ 5: System Administration and IT Infrastructure Services](https://coursera.org/share/a4356a1a6bd585c305fd5e135f8d26c6)
+
+
+# Google IT Support
+
+[Google IT Automation with Python](https://coursera.org/share/bf761499aaa7d0e8f6fc4ffe9c93e8f0)
+
+![Certificate](/Coursera C2HRL2Y6TFJY.jpg)
